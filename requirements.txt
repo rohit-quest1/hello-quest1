@@ -1,0 +1,6 @@
+
+viam-sdk==0.41.0
+Pillow
+opencv-python-headless 
+matplotlib
+typing-extensions

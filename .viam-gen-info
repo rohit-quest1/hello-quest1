@@ -1,0 +1,12 @@
+{
+  "module_name": "hello-quest1",
+  "namespace": "rohit",
+  "language": "python",
+  "resource_type": "component",
+  "resource_subtype": "camera",
+  "model_name": "hello-camera",
+  "enable_cloud_build": false,
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2025-02-21T04:14:59.615429339Z"
+}

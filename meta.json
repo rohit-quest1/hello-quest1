@@ -1,0 +1,15 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "rohit:hello-quest1",
+  "visibility": "private",
+  "url": "",
+  "description": "Modular camera component: hello-camera",
+  "models": [
+    {
+      "api": "rdk:component:camera",
+      "model": "rohit:hello-quest1:hello-camera"
+    }
+  ],
+  "entrypoint": "./run.sh",
+  "first_run": ""
+}
